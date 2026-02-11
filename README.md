@@ -22,10 +22,10 @@ Condiciones y estructuras de decisión
 Cada notebook desarrolla ejercicios prácticos que permiten comprender tanto la sintaxis como la lógica computacional subyacente.
 
 
-##Objetivo general ##
+Objetivo general:
 Desarrollar competencias fundamentales en programación con Python mediante la manipulación estructurada de datos y la aplicación de lógica condicional para la resolución de problemas.
 
-##Estructura del repo##
+Estructura del repo:
 01_Python_Cadenas.ipynb
 02_Python_Tuplas.ipynb
 03_Python_Listas.ipynb

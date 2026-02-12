@@ -32,9 +32,13 @@ Estructura del repo:
 04_Python_Conjuntos.ipynb
 05_Python_Diccionarios.ipynb
 06_Python_Condiciones.ipynb
+07-Python-Bucles.ipynb
+08-Python-Funciones.ipynb
 README.md
 
 Cada archivo contiene:
+
+-Explicación del tema.
 
 -Explicación del ejercicio.
 
